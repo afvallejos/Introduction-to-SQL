@@ -783,3 +783,6 @@ One of the most important things in database design is the databse schema.
 3. Mapping of binary 1:1 relationship types: Include one side of the relationship as a foreign key in the other Favor total participation.
 4. Mapping of binary 1:N relationship types: Include the 1 side's primary key as a foreign key on the N side relation (table)
 5. Mappping of M:N relationship types: Create a new relation table who's primary key is a combination of both entities' primary keys. Also include any relationship attributes.
+
+---
+> From https://www.mikedane.com/
